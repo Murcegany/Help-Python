@@ -1,0 +1,5 @@
+# Código para estruturas básicas em Python
+
+def funcao():
+    print("Olá, mundo") # Imprimindo algo, não há necessidade de ;, mas sempre respeitar a estrutura e identação
+funcao() # Como chamar uma função
